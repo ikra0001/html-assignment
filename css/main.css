@@ -9,11 +9,16 @@ body {
     font-size: 18px;
 }
 
+p:nth-child(3) {
+    background-color: darkgray;
+}
 header, footer {
     background-color:rgb(124, 203, 255) ;
 }
 #Timur {
+    background-color:rgb(255, 51, 0);
     box-shadow: 0 2px 1px;
+    padding: 12px;
 }
 
 ul {
